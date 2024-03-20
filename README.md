@@ -39,7 +39,10 @@
 <a href="https://www.instagram.com/leeseu_hyuni/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&square&logo=instagram&logoColor=white&link=https://www.instagram.com/leeseu_hyuni/"/></a>
 <img src="https://img.shields.io/badge/%23adelie75-5865f2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
 </p>
- 
+
+<p align="center">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesh0829&theme=vision-friendly-dark&show_icons=true)
+</p>
 <!--
 **leesh0829/leesh0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
