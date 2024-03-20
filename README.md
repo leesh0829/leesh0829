@@ -1,4 +1,4 @@
-<h2 align="center">🐧 Adelie 🐧</h2> <br>
+<h1 align="center">🐧 Adelie 🐧</h1> <br>
 
 <h3 align="center">ENG</h3>
 <h5 align="center">Name: Lee Seung Hyun</h5>
