@@ -37,7 +37,7 @@
  <img src="https://img.shields.io/badge/Adelie-03775a?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp
  <a href="https://www.youtube.com/channel/UCuJ2U9iJDk93ploMfFOA6lQ"><img src="https://img.shields.io/badge/youtube-ff0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCuJ2U9iJDk93ploMfFOA6lQ"/></a>&nbsp 
 <a href="https://www.instagram.com/leeseu_hyuni/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&square&logo=instagram&logoColor=white&link=https://www.instagram.com/leeseu_hyuni/"/></a>
-<img src="https://img.shields.io/badge/%23tadelie75-5865f2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/%23adelie75-5865f2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
 </p>
  
 <!--
