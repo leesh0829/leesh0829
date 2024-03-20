@@ -1,17 +1,16 @@
-<h3 align="center">🐧 Adelie 🐧</h3> <br>
+<h2 align="center">🐧 Adelie 🐧</h2> <br>
 
 <h3 align="center">ENG</h3>
-<h3 align="center">Name: Lee Seung Hyun</h3>
-<h3 align="center">Age: 17 (2006 years born)</h3>
-<h3 align="center">Birthday: 08/29</h3>
-<h3 align="center">Gender: male</h3> <br>
+<h5 align="center">Name: Lee Seung Hyun</h5>
+<h5 align="center">Age: 17 (2006 years born)</h5>
+<h5 align="center">Birthday: 08/29</h5>
+<h5 align="center">Gender: male</h5> <br>
 
 <h3 align="center">KOR</h3>
-<h3 align="center">이름: 이승현</h3>
-<h3 align="center">나이: 19 (2006년생)</h3>
-<h3 align="center">생일: 08/29</h3>
-<h3 align="center">성별: 남자</h3><br>
-
+<h5 align="center">이름: 이승현</h5>
+<h5 align="center">나이: 19 (2006년생)</h5>
+<h5 align="center">생일: 08/29</h5>
+<h5 align="center">성별: 남자</h5><br>
 
  <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh0829&count_bg=%230084FB&title_bg=%23000000&icon=linux.svg&icon_color=%23FFFFFF&title=Join%21&edge_flat=false"/></a>
