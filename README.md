@@ -19,7 +19,7 @@
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/Unity-ffffff?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/C%2B%2B-512bd4?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
