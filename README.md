@@ -2,8 +2,9 @@
 
  <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh0829&count_bg=%230084FB&title_bg=%23000000&icon=linux.svg&icon_color=%23FFFFFF&title=Join%21&edge_flat=false"/></a>
-  **[![leesh0829's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/leesh0829/github-readme-stats)**
  </div>
+  
+ [![leesh0829's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/leesh0829/github-readme-stats)
 <!--
 **leesh0829/leesh0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
