@@ -40,9 +40,10 @@
 <img src="https://img.shields.io/badge/%23adelie75-5865f2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center">
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesh0829&theme=vision-friendly-dark&show_icons=true)
-</p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh0829&layout=compact&theme=vision-friendly-dark)
+
+
 <!--
 **leesh0829/leesh0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
