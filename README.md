@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  <div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh0829&count_bg=%23000000&title_bg=%23FBFBFB&icon=&icon_color=%230093F9&title=Join&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh0829&count_bg=%23FFFFFF&title_bg=%23000000&icon=&icon_color=%230093F9&title=Join&edge_flat=false"/></a>
  </div>
 <!--
 **leesh0829/leesh0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
