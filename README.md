@@ -19,16 +19,25 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/C%2B%2B-512bd4?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Oculus-1c1e20?style=flat-square&logo=oculus&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white"/></a> <br> 
+ <img src="https://img.shields.io/badge/C%2B%2B-512bd4?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Cisco-1ba0d7?style=flat-square&logo=cisco&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/PlatFormIO-f5822a?style=flat-square&logo=platformio&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a> <br>
+ <img src="https://img.shields.io/badge/Java-cc0000?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/Multisim-57B685?style=flat-square&logo=multisim&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/OrCAD-be2323?style=flat-square&logo=orcad&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Proteus-1c79b3?style=flat-square&logo=proteus&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/CodeVisionAVR-e61414?style=flat-square&codevisionavr=cisco&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/Cisco-1ba0d7?style=flat-square&logo=cisco&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/virtualbox-183a61?style=flat-square&logo=virtualbox&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">Follow</h3>
