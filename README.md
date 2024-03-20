@@ -10,7 +10,6 @@
 
 <h3 align="center">Follow</h3>
 <p align="center">
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ee2hi@naver.com)](ee2hi@naver.com)
  <a href="https://www.youtube.com/channel/UCuJ2U9iJDk93ploMfFOA6lQ"><img src="https://img.shields.io/badge/youtube-ff0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCuJ2U9iJDk93ploMfFOA6lQ"/></a>
 <a href="https://www.instagram.com/leeseu_hyuni/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&square&logo=instagram&logoColor=white&link=https://www.instagram.com/leeseu_hyuni/"/></a>
 </p>
