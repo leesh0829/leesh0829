@@ -43,6 +43,7 @@
 
 <h3 align="center">Follow</h3>
 <p align="center">
+ <a href="https://blog.naver.com/adelie75"><img src="https://img.shields.io/badge/Naver Blog-03775a?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/adelie75"/></a>&nbsp 
  <img src="https://img.shields.io/badge/ee2hi@naver.com-03775a?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/Adelie-03775a?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp
  <a href="https://www.youtube.com/channel/UCuJ2U9iJDk93ploMfFOA6lQ"><img src="https://img.shields.io/badge/youtube-ff0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCuJ2U9iJDk93ploMfFOA6lQ"/></a>&nbsp 
