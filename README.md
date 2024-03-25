@@ -28,7 +28,8 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/PlatFormIO-f5822a?style=flat-square&logo=platformio&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a> <br>
- <img src="https://img.shields.io/badge/Java-cc0000?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Java-cc0000?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp <br>
  <img src="https://img.shields.io/badge/Multisim-57B685?style=flat-square&logo=multisim&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/OrCAD-be2323?style=flat-square&logo=orcad&logoColor=white"/></a>&nbsp
