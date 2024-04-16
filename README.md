@@ -37,12 +37,15 @@
  <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp <br>
  <img src="https://img.shields.io/badge/Multisim-57B685?style=flat-square&logo=multisim&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Proteus-1c79b3?style=flat-square&logo=proteus&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/CodeVisionAVR-e61414?style=flat-square&codevisionavr=cisco&logoColor=white"/></a>&nbsp <br>
  <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/virtualbox-183a61?style=flat-square&logo=virtualbox&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/virtualbox-183a61?style=flat-square&logo=virtualbox&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/Phython-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">Follow</h3>
