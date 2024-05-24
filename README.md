@@ -44,8 +44,10 @@
  <img src="https://img.shields.io/badge/CodeVisionAVR-e61414?style=flat-square&codevisionavr=cisco&logoColor=white"/></a>&nbsp <br>
  <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/virtualbox-183a61?style=flat-square&logo=virtualbox&logoColor=white"/></a>&nbsp <br>
- <img src="https://img.shields.io/badge/Phython-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">Follow</h3>
