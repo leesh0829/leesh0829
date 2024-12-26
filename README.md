@@ -12,7 +12,7 @@
 <details align="center">
  <summary align="center"><h1>KOR</h1></summary>
  <h5 align="center">이름: 이승현</h5>
- <h5 align="center">나이: 19 (2006년생)</h5>
+ <h5 align="center">나이: 20 (2006년생)</h5>
  <h5 align="center">생일: 08/29</h5>
  <h5 align="center">성별: 남자</h5><br>
 </details>
