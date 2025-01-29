@@ -26,19 +26,28 @@
 <p align="center">
  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Java-db1f29?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellijidea&logoColor=white"/></a>&nbsp <br>
 </p>
 
 <h3 align="center">Studying</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=Next.JS&logoColor=white"/></a>&nbsp <br>
- <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/PlatFormIO-f5822a?style=flat-square&logo=platformio&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp <br>
+ <img src="https://img.shields.io/badge/Thymeleaf-005f0f?style=flat-square&logo=thymeleaf&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">Follow</h3>
