@@ -1,6 +1,6 @@
 <h1 align="center">🐧 LeeSeungHyun 🐧</h1> <br>
 
-<h2 align="center">github말고 gitlab으로 작업해서 연동을 안해놔 잔디가 안깔리는 중..</h2>
+<h2 align="center">요즈음 github말고 gitlab으로 작업하고 있어서 연동을 안해놔 잔디가 안깔리는 중..</h2>
 
 <details align="center">
  <summary align="center"><h1>ENG</h1></summary>
