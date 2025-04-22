@@ -1,7 +1,7 @@
-<h1 align="center">✨ Lee Seung Hyun (이승현) ✨</h1>
+<h1 align="center">🐧 Lee Seung Hyun (이승현) 🐧</h1>
 <p align="center">
   Full-stack developer with a passion for building scalable systems & beautiful UIs.<br>
-  🐧 Code. Coffee. Curiosity. &nbsp;&nbsp;|&nbsp;&nbsp; Based in Korea 🇰🇷 (2006)
+  ✨ Code. Coffee. Curiosity. &nbsp;&nbsp;|&nbsp;&nbsp; Based in Korea 🇰🇷 (2006)
 </p>
 
 <p align="center">
