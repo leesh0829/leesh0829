@@ -28,8 +28,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesh0829&show_icons=true&theme=tokyonight&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh0829&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leesh0829&show_icons=true&theme=github_dark&hide=contribs"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh0829&layout=compact&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leesh0829&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -57,6 +62,7 @@
   <a href="mailto:ee2hi@naver.com">
     <img src="https://img.shields.io/badge/Email-ee2hi@naver.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <br/>
   <a href="https://humdrum-sphere-41a.notion.site/Our-Colony-725f3a7abed649c5bc3e1d91047f2e19?pvs=4">
     <img src="https://img.shields.io/badge/My Portfolio-0288D1?style=flat-square&logo=gitbook&logoColor=white" alt="My Portfolio" />
   </a>
