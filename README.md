@@ -60,3 +60,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesh0829&theme=vision-friendly-dark&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh0829&layout=compact&theme=vision-friendly-dark)
+
+<p align="center">
+ <a href="https://wakatime.com/@bae81f8f-6822-46d9-9e2d-99e2cfd95278"><img src="https://wakatime.com/badge/user/bae81f8f-6822-46d9-9e2d-99e2cfd95278.svg" alt="Total time coded since Mar 21 2025" /></a>
+</p>
