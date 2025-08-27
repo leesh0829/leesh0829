@@ -9,6 +9,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=435&lines=Welcome+to+my+GitHub+profile!;Developer+%7C+Student+%7C+Explorer;I+love+Spring+Boot+and+.NET!"/>
+</p><br>
+
+<p align="center">
+  I'm use gitlab now.
 </p>
 
 ---
