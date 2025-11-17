@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120"/>
+</p>
+
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY5NjIwN3J3bW4xNTNsOGdzenJsODV0dGl5Mmt3b3Z0Zm56ZDhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xIAka4gHdlRt3a/giphy.gif" width="200" alt="Adelie Penguin"/>
 <h1 align="center">🐧 Lee Seung Hyun (이승현) 🐧</h1>
@@ -89,6 +93,7 @@
       <img src="https://wakatime.com/badge/user/bae81f8f-6822-46d9-9e2d-99e2cfd95278.svg" alt="Wakatime" />
     </a>
   </p>
+</details>
 </details>
 
 
