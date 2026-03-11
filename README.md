@@ -85,7 +85,7 @@
       <img src="https://img.shields.io/badge/Email-ee2hi@naver.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <br/>
-    <a href="https://leesh-ten.vercel.app/leesh">
+    <a href="https://www.leeseunghyun.me/leesh">
       <img src="https://img.shields.io/badge/My Portfolio-0288D1?style=flat-square&logo=gitbook&logoColor=white" alt="My Portfolio" />
     </a>
     <br/>
